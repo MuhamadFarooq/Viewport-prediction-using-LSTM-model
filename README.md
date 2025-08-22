@@ -15,3 +15,5 @@ Data is being pre-processed and then made sequences that are required as input f
 Using LSTM model, viewport prediction accuracy is calculated.
 
 Different accuracy levels are introduced as how many frames have 100% accuracy, 75%, 50%, 25% and also 0% to check performance of model.
+
+This model is then trained for real time 360-degree video streaming (calculating inference time, latency, throughput and feasibility for 30 fps)
